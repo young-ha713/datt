@@ -57,6 +57,8 @@ r = read
 w = write  
 x =excute (실행)  
   
+https://www.leafcats.com/138  
+  
 권한 +두가지  
 소유권 허가권  
   
