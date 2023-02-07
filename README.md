@@ -70,3 +70,18 @@ cd - 이전경로로 이동
   
 .(현재위치)..(한단계위)이용해서 이동하는게 상대굥로  
 
+  
+  
+> 새로만드는거임  
+>> 추가  
+<  
+echo는 출력  
+  
+압축해제  
+tar xvfz 소스파일명.tar.gz  
+tar xvfj          .tar.bz2  
+  
+configure 환경설정  
+make 콤파일  
+make install 설치  
+mysql.sh 만들고 chmod 755 mysql.sb
